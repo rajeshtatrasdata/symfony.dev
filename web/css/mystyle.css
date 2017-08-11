@@ -9,3 +9,6 @@ body {
     font-size:26px;
     text-align:center;
 }
+.list-group-item{
+    min-height: 60px;
+}
